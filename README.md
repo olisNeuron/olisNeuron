@@ -3,7 +3,7 @@ English | [中文](./README-CN.md)
 
 > “What I cannot create, I do not understand.” — Richard Feynman
 
-Student · self-taught learner.
+Self-taught learner · CS61B · building my own knowledge base
 
 ## 🧭 Curious About
 
