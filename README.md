@@ -5,7 +5,7 @@ English | [中文](./README-CN.md)
 
 Self-taught learner · CS61B · building my own knowledge base
 
-## 🧭 Curious About
+## Curious About
 
 - How an agent turns a single sentence into a tool call
 - What happens between source code and a running program
